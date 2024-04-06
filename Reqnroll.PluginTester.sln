@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reqnroll.PluginTester", "Reqnroll.PluginTester.csproj", "{4906296E-869D-4D5C-8709-922BD090EAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4906296E-869D-4D5C-8709-922BD090EAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4906296E-869D-4D5C-8709-922BD090EAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4906296E-869D-4D5C-8709-922BD090EAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4906296E-869D-4D5C-8709-922BD090EAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FF444F8-6173-40D6-926B-5A059C4FFD18}
+	EndGlobalSection
+EndGlobal
